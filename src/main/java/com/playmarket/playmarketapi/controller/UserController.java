@@ -19,7 +19,6 @@ import lombok.AllArgsConstructor;
 
 @RestController
 @RequestMapping("/playmatket")
-@AllArgsConstructor
 public class UserController {
 	
 	private final UserRepository userRepository;

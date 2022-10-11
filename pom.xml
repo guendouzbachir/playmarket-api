@@ -10,7 +10,8 @@
 	</parent>
 	<groupId>com.playmarket</groupId>
 	<artifactId>playmarket-api</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
+	<packaging>jar</packaging>
 	<name>playmarket-api</name>
 	<description>PlayMarket API</description>
 	<properties>
